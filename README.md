@@ -86,15 +86,19 @@ chmod +x <file_name>
 
 Gives execution permission to a file (allows it to run as a program or script).
 
-![opcijeMeduse](https://github.com/user-attachments/assets/2d386a83-44a5-45fd-a830-166a698ce616)
-
 ```bash
 ssh-keygen -t rsa -b 4096 -C "user@example.com"
 ```
 
 Generates a secure RSA key pair (public and private key).  
 
+![opcijeMeduse](https://github.com/user-attachments/assets/2d386a83-44a5-45fd-a830-166a698ce616)
+
+The image displays the available options within the Medusa Phisher tool interface. It highlights different functionalities related to phishing simulation and QR-based attack scenarios, allowing users to understand how such tools are structured and used in a controlled, educational environment.
+
 ![qr](https://github.com/user-attachments/assets/354f508c-0a07-4cbb-8b7f-e1b481d7db72)
+
+The image shows a QR code generated during the demonstration process. This QR code represents how easily a link can be embedded and shared, illustrating the core concept behind QR-based phishing (quishing) attacks.
 
 ---
 
@@ -128,24 +132,7 @@ Quishing combines physical elements (QR codes) with digital deception, making it
 
 ---
 
-## 🛡️ How to Protect Yourself
-
-### Before Scanning
-- Only scan QR codes from trusted sources  
-- Avoid codes placed over stickers or modified posters  
-- Be cautious in public environments  
-
-### After Scanning
-- Carefully check the URL  
-- Look for spelling errors in the domain name  
-- Ensure the website is legitimate  
-- Avoid entering sensitive information on unknown sites  
-
-### Account Security
-- Enable **Multi-Factor Authentication (MFA)**  
-- Use strong and unique passwords  
-- Avoid password reuse across platforms  
-- Keep devices and applications updated  
+<img width="1024" height="1536" alt="protection" src="https://github.com/user-attachments/assets/5a771536-a379-4eda-8ea4-a8dc6d8b1f3e" />
 
 ---
 
