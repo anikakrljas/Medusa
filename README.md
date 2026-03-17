@@ -100,6 +100,8 @@ The image displays the available options within the Medusa Phisher tool interfac
 
 The image shows a QR code generated during the demonstration process. This QR code represents how easily a link can be embedded and shared, illustrating the core concept behind QR-based phishing (quishing) attacks.
 
+> ⚠️ Note: The QR code and URL shown in this image were generated in a temporary testing environment and are no longer active.
+
 ---
 
 ## 🎯 Chapter 3: QR-Based Phishing Scenario (Defensive Overview)
