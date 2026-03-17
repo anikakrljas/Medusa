@@ -1,8 +1,5 @@
 # 🔐 Medusa Phisher
 
-![medusa](https://github.com/user-attachments/assets/67a7bf82-80a8-420d-b373-a178296bff5e)
-
-
 ## QR Code Security & Phishing Awareness
 
 <p align="left">
@@ -12,6 +9,8 @@
 </p>
 
 ---
+
+![medusa](https://github.com/user-attachments/assets/67a7bf82-80a8-420d-b373-a178296bff5e)
 
 ## ⚠️ Disclaimer
 
