@@ -50,6 +50,8 @@ Unlike traditional phishing links, QR codes hide the URL until they are scanned,
 
 It is strongly recommended to use Kali inside a **virtual machine** (such as VirtualBox or VMware). This keeps the system isolated from the main operating system, improving safety and control.
 
+![kali](https://github.com/user-attachments/assets/b7594b9e-5ba6-462c-b23a-0fee923f928d)
+
 ### System Update Commands
 
 The first step is running:
@@ -82,6 +84,8 @@ Downloads a repository from a remote source to the local system.
 chmod +x <file_name>
 ```
 
+![opcijeMeduse](https://github.com/user-attachments/assets/2d386a83-44a5-45fd-a830-166a698ce616)
+
 Gives execution permission to a file (allows it to run as a program or script).
 
 ```bash
@@ -91,6 +95,8 @@ ssh-keygen -t rsa -b 4096 -C "user@example.com"
 Generates a secure RSA key pair (public and private key).  
 
 ---
+
+![qr](https://github.com/user-attachments/assets/354f508c-0a07-4cbb-8b7f-e1b481d7db72)
 
 ## 🎯 Chapter 3: QR-Based Phishing Scenario (Defensive Overview)
 
