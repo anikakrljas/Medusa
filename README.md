@@ -1,4 +1,8 @@
 # 🔐 Medusa Phisher
+
+![medusa](https://github.com/user-attachments/assets/67a7bf82-80a8-420d-b373-a178296bff5e)
+
+
 ## QR Code Security & Phishing Awareness
 
 <p align="left">
@@ -36,6 +40,8 @@ The main concern is that:
 This type of attack is known as **quishing (QR phishing)** — a form of social engineering that relies on trust, curiosity, and human behavior rather than technical vulnerabilities.
 
 Unlike traditional phishing links, QR codes hide the URL until they are scanned, making deception easier.
+
+![instagram](https://github.com/user-attachments/assets/68525f13-51ea-4671-8569-23f7c40a2768)
 
 ---
 
